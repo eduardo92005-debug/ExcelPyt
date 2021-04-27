@@ -1,0 +1,12 @@
+et-xmlfile==1.0.1
+lml==0.1.0
+numpy==1.20.2
+openpyxl==3.0.7
+path==15.1.2
+pyexcel==0.6.6
+pyexcel-io==0.6.4
+pyexcel-xlsx==0.6.0
+six==1.15.0
+texttable==1.6.3
+toml==0.10.2
+XlsxWriter==1.4.0
